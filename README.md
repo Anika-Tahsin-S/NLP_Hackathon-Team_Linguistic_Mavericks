@@ -3,12 +3,10 @@
 # nlp_hackathon_bd_2023
 
 ## 1. Instructions
-1. Download the data to your computing environment from https://github.com/cryptexcode/nlp_hackathon_bd_2023
+1. Start analysing the data and developing your models.
 
-2. Start analysing the data and developing your models.
-
-3. We expect you to develop two models. One can involve fine-tuning/training neural (deep learning) models and at least one feature-based model is a must. Macro F1 will be used as the official evaluation metric.
-4. Maintain a development log and a project report.
+2. We expect you to develop two models. One can involve fine-tuning/training neural (deep learning) models and at least one feature-based model is a must. Macro F1 will be used as the official evaluation metric.
+3. Maintain a development log and a project report.
 
 The test set will be pushed to this repository two hours before the hackathon ends.
 
